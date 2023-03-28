@@ -1,4 +1,6 @@
-# Są trzy cukry proste glukoza, fruktoza i galaktoza
+# Są trzy cukry proste
+
+Glukoza, fruktoza i galaktoza.
 
 Podstawowowym cukrem dla naszego organizmu jest glukoza. Jest ona niezbędna dla organizmu. Mózg, czerwone krwinki oraz niektóre komórki w nerkach potrzebują jej. Jednakże konsumowanie glukozy nie jest niezbędne, bowiem całą potrzebną glukozę z powodzeniem wytworzy nasza wątroba w procesie o wdzęcznej nazwie glukoneoganeza. Jeżeli już musisz słodzić, użyj glukozy.
 
@@ -16,7 +18,7 @@ Laktoza występuje w mleku. Składa się z glukozy i galaktozy. Dzieci mają enz
 
 Maltoza to po prostu dwie cząsteczka glukozy. Występuje chyba głównie w żelach energetycznych dla sportowców.
 
-# Następnie mamy cukry złożone.
+# Następnie mamy cukry złożone
 
 Podstawowym jest skrobia, czyli wiele rozgałęzionych łańcuchów glukozy. Skrobia jest przez organizm z wielką łatwością rozbijana na glukozę. Drugą formą cukru złożonego jest błonnik. Różnica pomiędzy skrobią i błonnikiem polega na tym, że w błonniku cząsteczki glukozy
 
