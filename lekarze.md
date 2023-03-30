@@ -16,7 +16,9 @@ Wszystko, co tutaj umieściłem, powtarzam po lekarzach.
 
 ## Dr. Paul Mason
 
-## Dr Gary Fettke
+## Dr. Gary Fettke
+
+## Dr. Suneel Dhand
 
 # Inne nazwiska, które warto znać
 
