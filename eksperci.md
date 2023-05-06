@@ -1,12 +1,12 @@
 # Niczego sam nie wymyśliłem
 
-Wszystko, co tutaj umieściłem, powtarzam po lekarzach.
+Wszystko, co tutaj umieściłem, powtarzam po lekarzach, doktorach, profesorach medycny lub fizjologii.
 
 ## Tim Noakes
 
 ## Robert Lustig
 
-## Jeff Voleck
+## Jeff Volek
 
 ## Stephen Phinney
 
@@ -19,6 +19,8 @@ Wszystko, co tutaj umieściłem, powtarzam po lekarzach.
 ## Dr. Gary Fettke
 
 ## Dr. Suneel Dhand
+
+## Bart Kay
 
 # Inne nazwiska, które warto znać
 
